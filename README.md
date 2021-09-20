@@ -1,4 +1,4 @@
-# galaxy groups within 10Mpc
+# galaxy groups within 10 Mpc
 
 Based on the similar formalism as in KT2017 groups paper.  
 The sample is much more restricted, with the 10 Mpc limit.  
